@@ -14,5 +14,5 @@ jobs:
         run: echo Hello, world!
       - name: Run a multi-line script
         run: |
-          echo Add another echo statement here
-          echo Complete this line with your name
+          echo This is a GitHub Action workflow modification.
+          echo My name is Arjun Suwal (100949605).
