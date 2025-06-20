@@ -15,4 +15,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo This is a GitHub Action workflow modification.
-          echo My name is Arjun Suwal (100949605).
+          echo My name is Arjun Suwal 100949605.
